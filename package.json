@@ -1,0 +1,17 @@
+{
+    "name": "dojo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.py",
+    "scripts": {
+        "test": "mocha"
+    },
+    "author": "Equipe Imagem ESRI",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp-shell": "^0.7.1"
+    },
+    "dependencies": {
+        "gulp": "^4.0.2"
+    }
+}
